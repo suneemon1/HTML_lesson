@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+body {
+  line-height: 1.7;
+  font-family: "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN", Meiryo,
+    "MSゴシック", sans-serif;
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+.lead {
+  font-weight: bold;
+}
+.headline {
+  text-align: center;
+}
+.note {
+  padding-left: 1em;
+  text-indent: -1em;
+}
