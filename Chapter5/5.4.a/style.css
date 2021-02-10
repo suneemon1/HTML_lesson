@@ -1,0 +1,8 @@
+@charset "utf-8";
+.frame {
+  padding: 8px;
+  border: 1px solid transparent;
+}
+a:hover .frame {
+  border: 1px solid #ccc;
+}

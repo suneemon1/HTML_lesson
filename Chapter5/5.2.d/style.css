@@ -1,0 +1,10 @@
+@charset "utf-8";
+a {
+  color: hsl(203, 100%, 37%);
+}
+a :hover {
+  color: hsl(203, 70%, 83%);
+}
+a[target="_blank"]::after {
+  content: url(opentab.png);
+}

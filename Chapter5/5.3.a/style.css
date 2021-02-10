@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+ .img-responsive{
+    display: block;
+    max-width: 100%;
+    height: auto;
+} 
+.thumbnail{
+    width: 200px;
+}
