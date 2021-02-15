@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+.sidebar {
+  padding: 8px;
+  border: 1px solid #ccc;
+  width: 300px;
+}
+.subnav {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.subnav li {
+  overflow: hidden;
+  margin: 1em 0 1em 0;
+}
+.subnav a {
+  text-decoration: none;
+}
+.subnav .thumb {
+  float: left;
+  width: 100px;
+}
+.subnav .summary {
+  margin: 0 0 0 108px;
+}

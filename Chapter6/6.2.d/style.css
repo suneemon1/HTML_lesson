@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+.breadcrumb ol {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.breadcrumb li {
+  display: inline;
+}
+.breadcrumb li ::after {
+  content: "≫";
+  color: #999;
+}
+.breadcrumb li ::after :last-child {
+  content: none;
+}
+.breadcrumb a {
+  text-decoration: none;
+}

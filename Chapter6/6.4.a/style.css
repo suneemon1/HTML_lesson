@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+.wrapper {
+  overflow: hidden;
+}
+.item {
+  float: left;
+  margin: 8px 0 8px 8px;
+  border: 1px solid #ccc;
+  padding: 8px;
+  width: 300px;
+}
